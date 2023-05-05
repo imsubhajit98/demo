@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imsubhajit98/loginPage/static/css/main.f6428485.css",
+    "main.js": "/imsubhajit98/loginPage/static/js/main.8923acd0.js",
+    "static/js/787.67f3ad6c.chunk.js": "/imsubhajit98/loginPage/static/js/787.67f3ad6c.chunk.js",
+    "index.html": "/imsubhajit98/loginPage/index.html",
+    "main.f6428485.css.map": "/imsubhajit98/loginPage/static/css/main.f6428485.css.map",
+    "main.8923acd0.js.map": "/imsubhajit98/loginPage/static/js/main.8923acd0.js.map",
+    "787.67f3ad6c.chunk.js.map": "/imsubhajit98/loginPage/static/js/787.67f3ad6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6428485.css",
+    "static/js/main.8923acd0.js"
+  ]
+}
